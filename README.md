@@ -6,22 +6,30 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="CSS2.CSS">
+<link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <BODY>
   <header>
-   <div class="pos-f-t">
-  <div class="collapse" id="navbarToggleExternalContent">
-    <div class="bg-dark p-4">
-      <h4 class="text-white"></h4>
-      <span class="text-muted">Toggleable via the navbar brand.</span>
-    </div>
-  </div>
-  <nav class="navbar navbar-dark bg-dark">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  </nav>
-</div>
+  <nav id="header-nav" class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="index.html" class="pull-left visible-md visible-lg">
+            <div id="logo-img"></div>
+          </a>
+
+          <div class="navbar-brand">
+            <a href="index.html"><h1>David Chu's China Bistro</h1></a>
+            <p>
+              <img src="images/star-k-logo.png" alt="Kosher certification">
+              <span>Kosher Certified</span>
+            </p>
+          </div>
+
+
+        </div>
+      </div>
+    </nav>
+
   </header>
   <h1>COURSERA</h1>
   <div class="col-lg-4 col-md-6 col-sm-12">
@@ -54,5 +62,8 @@ contetnt="width=device-width,initial-scale=1">
       </p>
     </div>
   </div>
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
 </BODY>
 </html>
