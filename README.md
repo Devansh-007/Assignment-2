@@ -6,21 +6,45 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="CSS2.CSS">
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 </head>
 <BODY>
   <header>
-    <div class="pos-f-t">
-  <div class="collapse" id="navbarToggleExternalContent">
-    <div class="bg-dark p-4">
-    </div>
-  </div>
-  <nav class="navbar navbar-dark bg-dark">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  </nav>
-</div>
+    <nav id="header-nav" class="navbar navbar-default">
+          <div class="container-fluid">
+            <div class="navbar-header">
+                <div class="navbar-brand">
+                <h1>Food, LLC</h1>
+                </div>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="true">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                </div>
+                <div id="collapsable-nav" class="navbar-collapse collapse in" aria-expanded="true" style="">
+                  <ul id="nav-list" class="nav navbar-nav navbar-right  text-center">
+                    <li class="visible-xs"><h4>Chicken</h4></li><hr>
+                    <li class="visible-xs"><h4>Beef</h4></li><hr>
+                    <li class="visible-xs"><h4>Sushi</h4></li>
+                 </ul>
+                </div>
+                </div>
+                </nav>
+    <div class="container text-center">
+<h1>Our Menu</h1>
+
+
+
+  <div class="col-xs-12 content row">
+ 
+  	</div>
+
+
+  <div class="col-xs-12 content">
+    <h3>Beef</h3><br>
+ 
   </header>
   <h1>COURSERA</h1>
   <div class="col-lg-4 col-md-6 col-sm-12">
