@@ -9,13 +9,11 @@ contetnt="width=device-width,initial-scale=1">
   </head>
 <BODY>
   <header>
-    <div class="container" onclick="myFunction(this)">
-  <div class="bar1">
-    <p class="content">devansh</p>
-     </div>
+    <button><div class="container" onclick="myFunction(this)">
+  <div class="bar1"></div>
   <div class="bar2"></div>
   <div class="bar3"></div>
-</div>
+      </div></buttton>
   </header>
 
   <div class="col-lg-4 col-md-6 col-sm-12">
