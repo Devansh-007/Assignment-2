@@ -32,19 +32,6 @@ contetnt="width=device-width,initial-scale=1">
                 </div>
                 </div>
                 </nav>
-    <div class="container text-center">
-<h1>Our Menu</h1>
-
-
-
-  <div class="col-xs-12 content row">
- 
-  	</div>
-
-
-  <div class="col-xs-12 content">
-    <h3>Beef</h3><br>
- 
   </header>
   <h1>COURSERA</h1>
   <div class="col-lg-4 col-md-6 col-sm-12">
