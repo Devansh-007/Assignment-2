@@ -11,6 +11,7 @@ contetnt="width=device-width,initial-scale=1">
   <header>
     <div class="container" onclick="myFunction(this)">
   <div class="bar1">
+    <p class="content">devansh</p>
      </div>
   <div class="bar2"></div>
   <div class="bar3"></div>
