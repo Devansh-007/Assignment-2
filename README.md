@@ -14,12 +14,12 @@ contetnt="width=device-width,initial-scale=1">
 
 <!-- Top Navigation Menu -->
 <div class="topnav">
-  <a href="#home" class="active">Logo</a>
+  <a href="#home" class="active">Food LLC</a>
   <!-- Navigation links (hidden by default) -->
   <div id="myLinks">
-    <a href="#news">News</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
+    <a href="#news">chicken</a>
+    <a href="#contact">beaf</a>
+    <a href="#about">vegetables</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
