@@ -6,58 +6,7 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="CSS2.CSS">
- <style>
-.body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.mobile-container {
-  max-width: 480px;
-  margin: auto;
-  background-color: #555;
-  height: 500px;
-  color: white;
-  border-radius: 10px;
-}
-
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
-}
-
-.topnav #myLinks {
-  display: none;
-}
-
-.topnav a {
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  display: block;
-}
-
-.topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.active {
-  background-color: #4CAF50;
-  color: white;
-}
-</style>
 </head>
- </head>
 <BODY>
  
 
