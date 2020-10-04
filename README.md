@@ -6,12 +6,12 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="CSS2.CSS">
-  
   </head>
 <BODY>
   <header>
     <div class="container" onclick="myFunction(this)">
-  <div class="bar1"></div>
+  <div class="bar1">
+     </div>
   <div class="bar2"></div>
   <div class="bar3"></div>
 </div>
@@ -47,7 +47,9 @@ contetnt="width=device-width,initial-scale=1">
       </p>
     </div>
   </div>
-   <script src="js/bootstrap.min.js"></script>
+   <script src=function myFunction(x) {
+  x.classList.toggle("change");
+}></script>
 
 </BODY>
 </html>
