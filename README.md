@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
-<link rel="stylesheet" type="text/css" href="C:\Users\Guest\coursera-test\site\CSS2.CSS">
+<link rel="stylesheet" type="text/css" href="CSS2.CSS">
 </head>
 <BODY>
   <header>
