@@ -17,9 +17,11 @@ contetnt="width=device-width,initial-scale=1">
   <a href="#home" class="active">Food LLC</a>
   <!-- Navigation links (hidden by default) -->
   <div id="myLinks">
-    <a href="#news">chicken</a>
-    <a href="#contact">beaf</a>
-    <a href="#about">vegetables</a>
+    <ul type="disc">
+    <li>chicken</li>
+    <li>beaf</li>
+    <li>vegetables</li>
+    </ul>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
