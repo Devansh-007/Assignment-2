@@ -17,14 +17,14 @@ contetnt="width=device-width,initial-scale=1">
                 <div class="navbar-brand">
                 <h1>Food, LLC</h1>
                 </div>
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="true">
+                <button type="button"  class="navbar-toggle collapsed"  data-toggle="collapse"  data-target="#collapsable-nav"  aria-expanded="false">
                   <span class="sr-only">Toggle navigation</span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
                 </div>
-                <div id="collapsable-nav" class="navbar-collapse collapse in" aria-expanded="true" style="">
+                <div id="collapsable-nav" class="collapse navbar-collapse">
                   <ul id="nav-list" class="nav navbar-nav navbar-right  text-center">
                     <li class="visible-xs"><h4>Chicken</h4></li><hr>
                     <li class="visible-xs"><h4>Beef</h4></li><hr>
