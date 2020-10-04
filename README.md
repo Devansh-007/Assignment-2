@@ -6,9 +6,8 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="CSS2.CSS">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-
-</head>
+  <link rel="stylesheet" href="https://github.com/marylou-pereira/Coursera-Assignments/blob/master/css">
+  </head>
 <BODY>
   <header>
     <nav id="header-nav" class="navbar navbar-default">
