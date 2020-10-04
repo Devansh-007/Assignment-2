@@ -7,7 +7,7 @@
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="CSS2.CSS">
  <style>
-body {
+.body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
