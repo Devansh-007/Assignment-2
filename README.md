@@ -33,7 +33,7 @@ contetnt="width=device-width,initial-scale=1">
                 </div>
                 </nav>
   </header>
-  <h1>COURSERA</h1>
+
   <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name1">
