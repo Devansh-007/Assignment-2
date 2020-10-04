@@ -13,8 +13,6 @@ contetnt="width=device-width,initial-scale=1">
     <div class="pos-f-t">
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-dark p-4">
-      <h4 class="text-white">Collapsed content</h4>
-      <span class="text-muted">Toggleable via the navbar brand.</span>
     </div>
   </div>
   <nav class="navbar navbar-dark bg-dark">
