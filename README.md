@@ -57,10 +57,7 @@ contetnt="width=device-width,initial-scale=1">
        This is a dummy text again, no need to read this please do skip it , its no point in reading this. 
       </p>
     </div>
-  </div>
- <script src="java1.js"></script>
+  </div> <script src="java1.js"></script>
 
-}
-</source>
 </BODY>
 </html>
