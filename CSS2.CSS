@@ -41,6 +41,7 @@ h1 {
 }
 box {
   width: 100%;
+  hight: 100%;
   overflow: none;
 }
 .content-name{
