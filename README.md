@@ -65,5 +65,7 @@ contetnt="width=device-width,initial-scale=1">
       </p>
     </div>
   </div>
+   <script src="js/bootstrap.min.js"></script>
+
 </BODY>
 </html>
