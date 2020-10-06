@@ -6,7 +6,7 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel"stylesheet" href"CSS2.CSS"
+  <link rel"stylesheet"  type="text/css" href"CSS2.CSS">
 <style>
 .body {
   font-family: Arial, Helvetica, sans-serif;
