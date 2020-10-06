@@ -12,7 +12,7 @@ contetnt="width=device-width,initial-scale=1">
 }
 
 .mobile-container {
-  min-width: 1200px;
+  width: 1200px;
   margin: auto;
   background-color: #555;
   height: 900px;
@@ -66,9 +66,9 @@ contetnt="width=device-width,initial-scale=1">
 <div class="topnav">
   <a href="#home" class="active">Logo</a>
   <div id="myLinks">
-    <a href="#news">News</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
+    <a href="#news">Chicken</a>
+    <a href="#contact">Beef</a>
+    <a href="#about">Sushi</a>
   </div>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
