@@ -104,11 +104,6 @@ contetnt="width=device-width,initial-scale=1">
       </p>
     </div>
   </div> <!-- Simulate a smartphone / tablet -->
-
-
-<!-- End smartphone / tablet look -->
-</div>
-
 <script>
 function myFunction() {
   var x = document.getElementById("myLinks");
