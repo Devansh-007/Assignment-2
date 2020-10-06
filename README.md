@@ -64,7 +64,7 @@ contetnt="width=device-width,initial-scale=1">
 
 <!-- Top Navigation Menu -->
 <div class="topnav">
-  <a href="#home" class="active">Logo</a>
+  <a href="#home" class="active">Food LLC</a>
   <div id="myLinks">
     <a href="#news">Chicken</a>
     <a href="#contact">Beef</a>
@@ -73,8 +73,37 @@ contetnt="width=device-width,initial-scale=1">
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
-</div>
-
+<div>
+ <div class="col-lg-4 col-md-6 col-sm-12">
+    <div class="box">
+      <p class="content-name name1">
+        Dummy text1
+      </p>
+      <p class="content">
+        This is a dummy text, no need to read this please do skip it , its no point in reading this.
+      </p>
+  </div>
+  </div>
+  <div class="col-lg-4 col-md-6 col-sm-12">
+    <div class="box">
+      <p class="content-name name2">
+        Dummy text2
+      </p>
+      <p class="content">
+        This is a dummy text too, no need to read this please do skip it , its no point in reading this.
+      </p>
+    </div>
+  </div>
+  <div  class="col-lg-4 col-md-6 col-sm-12">
+    <div class="box">
+      <p class="content-name name3">
+        Dummy text3
+      </p>
+      <p class="content">
+       This is a dummy text again, no need to read this please do skip it , its no point in reading this. 
+      </p>
+    </div>
+  </div> <!-- Simulate a smartphone / tablet -->
 
 
 <!-- End smartphone / tablet look -->
