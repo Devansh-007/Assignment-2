@@ -75,6 +75,7 @@ contetnt="width=device-width,initial-scale=1">
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
+  <div class="row">
 <div>
  <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
@@ -106,6 +107,7 @@ contetnt="width=device-width,initial-scale=1">
       </p>
     </div>
   </div> <!-- Simulate a smartphone / tablet -->
+    </div>
 <script>
 function myFunction() {
   var x = document.getElementById("myLinks");
