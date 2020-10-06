@@ -24,6 +24,7 @@ contetnt="width=device-width,initial-scale=1">
   overflow: hidden;
   background-color: #333;
   position: relative;
+  align: center;
 }
 
 .topnav #myLinks {
