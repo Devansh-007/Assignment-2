@@ -12,7 +12,7 @@ contetnt="width=device-width,initial-scale=1">
 }
 
 .mobile-container {
-  width: 1500px;
+  width: 1300px;
   margin: auto;
   background-color: #555;
   height: 900px;
