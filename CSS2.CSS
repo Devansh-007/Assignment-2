@@ -60,7 +60,7 @@ h1 {
   font-size: 50px;
   font-family: ariel;
 }
-box {
+.box {
   width: 100%;
   hight: 100%;
   overflow: none;
