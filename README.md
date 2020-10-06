@@ -88,11 +88,11 @@ box {
 {
   border:3px solidblack;
   width: 300x;
-  hieght: auto;
+  hieght: 200px;
   margin: 2.5%
   color:black;
   font-size: 25px;
-  padding: 20%;
+  padding: 20px 20px 20px 20px;
   padding-top: 55px;
   background-color:yellow;
 }
