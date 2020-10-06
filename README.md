@@ -68,7 +68,7 @@ box {
   text-align: center;
   border: 5px solid black;
   width: 100px;
-  height: 40px;
+  height: 50px;
   padding: 2px;
   float:right;
   margin-top:4px;
