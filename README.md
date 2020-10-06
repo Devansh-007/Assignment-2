@@ -122,9 +122,3 @@ function myFunction() {
 
  </div class="mobile-container">
 
-
-
-  
-
-</BODY>
-</html>
