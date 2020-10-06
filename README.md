@@ -150,7 +150,7 @@ background-color:orange;
  <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name1">
-        Dummy text1
+        Dummy
       </p>
       <p class="content">
         This is a dummy text, no need to read this please do skip it , its no point in reading this.
@@ -160,7 +160,7 @@ background-color:orange;
   <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name2">
-        Dummy text2
+        Dummy
       </p>
       <p class="content">
         This is a dummy text too, no need to read this please do skip it , its no point in reading this.
@@ -170,7 +170,7 @@ background-color:orange;
   <div  class="col-lg-4 col-md-6 col-sm-12">
     <div class="box">
       <p class="content-name name3">
-        Dummy text3
+        Dummy
       </p>
       <p class="content">
        This is a dummy text again, no need to read this please do skip it , its no point in reading this. 
