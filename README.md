@@ -121,7 +121,7 @@ background-color:orange;
   width:50%;}
 .col-md-12{
   margin-left:-10px;
-  width:100;
+  width:50%;
 .name3{
   margin-right:65px;
   width:100px;
