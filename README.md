@@ -12,10 +12,10 @@ contetnt="width=device-width,initial-scale=1">
 }
 
 .mobile-container {
-  max-width: 480px;
+  max-width: 1280px;
   margin: auto;
   background-color: #555;
-  height: 500px;
+  height: 900px;
   color: white;
   border-radius: 10px;
 }
