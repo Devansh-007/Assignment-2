@@ -80,7 +80,7 @@ box {
   padding: 2px;
   float:right;
   margin-top:4px;
-  margin-right:reative;
+  margin-right:15px;
   font-weight: bold;
   position: relative;
 }
