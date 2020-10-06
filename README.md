@@ -56,6 +56,9 @@ contetnt="width=device-width,initial-scale=1">
   background-color: #4CAF50;
   color: white;
 }
+.row{
+  margin-top: 6%;
+  margin-bottom: 6%;
 box {
   width: 100%;
   overflow: none;
