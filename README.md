@@ -92,7 +92,7 @@ box {
   margin: 2.5%
   color:black;
   font-size: 25px;
-  padding: 2%;
+  padding: 20%;
   padding-top: 55px;
   background-color:yellow;
 }
