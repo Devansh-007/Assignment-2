@@ -12,7 +12,7 @@ contetnt="width=device-width,initial-scale=1">
 }
 
 .mobile-container {
-  width: 1300px;
+  width: 1200px;
   margin: 0px;
   background-color: #555;
   height: 900px;
@@ -114,6 +114,3 @@ function myFunction() {
   }
 }
 </script>
-
- </div class="mobile-container">
-
