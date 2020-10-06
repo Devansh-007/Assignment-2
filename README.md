@@ -154,7 +154,7 @@ function myFunction() {
       </p>
     </div>
   </div> <!-- Simulate a smartphone / tablet -->
-</div class="mobile-container">
+
 
 
 </BODY>
