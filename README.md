@@ -6,8 +6,7 @@
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel"stylesheet"  type="text/css" href"CSS2.CSS">
-<style>
+ <style>
 .body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -56,6 +55,66 @@ contetnt="width=device-width,initial-scale=1">
 .active {
   background-color: #4CAF50;
   color: white;
+}
+box {
+  width: 100%;
+  overflow: none;
+}
+.content-name{
+  overflow:none;
+  text-align: center;
+  border: 5px solid black;
+  width: 100px;
+  height: 40px;
+  padding: 2px;
+  float:right;
+  margin-top:4px;
+  margin-right:28px;
+  font-weight: bold;
+  position: relative;
+}
+.content 
+{
+  border:3px solidblack;
+  width:90%;
+  hieght: auto;
+  margin: 2.5%
+  color:black;
+  font-size: 25px;
+  padding: 2%;
+  padding-top: 55px;
+  background-color:yellow;
+}
+.name1{
+background-color:red;  
+}
+.name2{
+background-color:blue;  
+}
+
+.name3{
+background-color:orange;  
+}
+@media (min-width: 992px) {
+.col-lg-4{
+  float:left;
+  width:33.33%;
+}
+}
+@media(min-width:768px)and(max-width:991)
+{
+  .col-md-6,col-md-12;{
+  float:left;
+}
+.col-md-6{
+  width:50%;}
+.col-md-12{
+  margin-left:-10px;
+  width:100;
+.name3{
+  margin-right:65px;
+  width:100px;
+}
 }
 </style>
 </head>
