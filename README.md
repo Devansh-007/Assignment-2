@@ -59,7 +59,7 @@ contetnt="width=device-width,initial-scale=1">
 .row{
   margin-top: 6%;
   margin-bottom: 6%;
-.box {
+box {
   width: 100%;
   overflow: none;
 }
