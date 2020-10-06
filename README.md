@@ -7,7 +7,7 @@
 contetnt="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
  <style>
-.body {
+body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -59,7 +59,15 @@ contetnt="width=device-width,initial-scale=1">
 .row{
   margin-top: 6%;
   margin-bottom: 6%;
-.box {
+}
+h1 {
+  margin-bottom: 17px;
+  text-align: center;
+  color: blue;
+  font-size: 50px;
+  font-family: ariel;
+}
+box {
   width: 100%;
   overflow: none;
 }
