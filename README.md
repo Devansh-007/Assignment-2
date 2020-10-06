@@ -124,38 +124,7 @@ function myFunction() {
 
 
 
-  <div class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-      <p class="content-name name1">
-        Dummy text1
-      </p>
-      <p class="content">
-        This is a dummy text, no need to read this please do skip it , its no point in reading this.
-      </p>
-  </div>
-  </div>
-  <div class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-      <p class="content-name name2">
-        Dummy text2
-      </p>
-      <p class="content">
-        This is a dummy text too, no need to read this please do skip it , its no point in reading this.
-      </p>
-    </div>
-  </div>
-  <div  class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-      <p class="content-name name3">
-        Dummy text3
-      </p>
-      <p class="content">
-       This is a dummy text again, no need to read this please do skip it , its no point in reading this. 
-      </p>
-    </div>
-  </div> <!-- Simulate a smartphone / tablet -->
-
-
+  
 
 </BODY>
 </html>
