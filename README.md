@@ -88,8 +88,8 @@ box {
   color:black;
   font-size: 25px;
   padding-top: 00px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
   background-color:yellow;
 }
 .name1{
