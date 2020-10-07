@@ -75,7 +75,7 @@ box {
   overflow:none;
   text-align: center;
   border: 5px solid black;
-  width: 100px;
+  width: 300px;
   height: 40px;
   padding: 2px;
   float:right;
