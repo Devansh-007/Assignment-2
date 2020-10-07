@@ -82,8 +82,7 @@
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
   	</div>	
   </div>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js/jquery-2.1.4.min.js"></script>
-  <script src="jquery-2.1.4.min.js"></script>
+ 
   <script src="https://github.com/Devansh-007/Assignment-2/blob/main/bootstrap.min%5B1%5D.js/bootstrap.min.js"> </script>
 
 </body></html>
