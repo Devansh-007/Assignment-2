@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0056)file:///C:/Users/Guest/coursera-test/site/Mod3index.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
