@@ -76,10 +76,10 @@ box {
   height: 40px;
   pading: 2px;
   flat:right;
-  magin-top:00px;
+  magin-top:20px;
   magin-right:00px;
   fot-weight: bold;
-  poition: center,top;
+  poition: center, bottom;
 }.content 
 {3px solidblack;
   width: 100%;
