@@ -87,7 +87,7 @@ box {
 .content 
 {
   border:3px solidblack;
-  width: 300x;
+  width: 100%;
   hieght: 200px;
   margin: 2.5%
   color:black;
