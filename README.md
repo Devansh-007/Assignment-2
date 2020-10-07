@@ -84,7 +84,7 @@
   </div>
   <script src="./Food, LLC_files/jquery.min.js.download"></script>
 
-  <script src="jquery-2.1.4.min.js"></script>
+  <script src="https://github.com/Devansh-007/Assignment-2/blob/main/jquery-2.1.4.min.js"></script>
   <script src="bootstrap.min.js"> </script>
 
 </body></html>
