@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title></title>
 <meta charset="utf-8">
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
@@ -52,16 +51,14 @@ body {
   color: black;
 }
 
-.active {
-  background-color: #4CAF50;
-  color: white;
+.active {r: #4CAF50;
+  color: hite;
 }
 .row{
   margin-top: 6%;
   margin-bottom: 6%;
 }
-h1 {
-  margin-bottom: 17px;
+h1 {  margin-bottom: 17px;
   text-align: center;
   color: blue;
   font-size: 50px;
@@ -74,19 +71,17 @@ box {
 .content-name{
   overflow:none;
   text-align: center;
-  border: 5px solid black;
+  bosolid black;
   width: 100%;
   height: 40px;
-  padding: 2px;
-  float:right;
-  margin-top:00px;
-  margin-right:00px;
-  font-weight: bold;
-  position: center,top;
-}
-.content 
-{
-  border:3px solidblack;
+  pading: 2px;
+  flat:right;
+  magin-top:00px;
+  magin-right:00px;
+  fot-weight: bold;
+  poition: center,top;
+}.content 
+{3px solidblack;
   width: 100%;
   hieght: 200px;
   margin: 2.5%
