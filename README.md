@@ -12,7 +12,7 @@ body {
 }
 
 .mobile-container {
-  width: 1024px;
+  width: 1100px;
   margin: 20px;
   background-color: #555;
   height: 521px;
