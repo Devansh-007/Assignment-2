@@ -113,7 +113,7 @@ background-color:orange;
   width:33.33%;
 }
 }
-@media(min-width:768px)and(max-width:991)
+@media(min-width:768px)and(max-width:1200px)
 {
   .col-md-6,col-md-12;{
   float:left;
