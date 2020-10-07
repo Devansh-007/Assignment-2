@@ -92,8 +92,8 @@ box {
   margin: 2.5%
   color:black;
   font-size: 25px;
-  padding: 20px 20px 20px 20px;
   padding-top: 55px;
+  padding-right: 20px;
   background-color:yellow;
 }
 .name1{
