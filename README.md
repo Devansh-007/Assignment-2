@@ -73,7 +73,7 @@ box {
   text-align: center;
   bosolid black;
   width: 100%;
-  height: 30px;
+  height: 50%;
   pading: 20px;
   float: ceneter;
   magin-top:00px;
