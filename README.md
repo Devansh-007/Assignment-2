@@ -77,8 +77,8 @@ box {
   float: ceneter;
   magin-top:00px;
   magin-right:00px;
-  fot-weight: bold;
-  poition: center-bottom;
+  foot-weight: bold;
+  poition: bottom;
 }
 .content 
 {3px solidblack;
