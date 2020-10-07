@@ -106,7 +106,7 @@ background-color:orange;
 .col-lg-4{
   float: left;
   width:33.33%;
-  padding: 25px; 
+  padding-right: 25px; 
 }
 }
 @media(min-width:768px)and(max-width:1200px)
