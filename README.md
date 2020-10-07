@@ -75,7 +75,7 @@ box {
   overflow:none;
   text-align: center;
   border: 5px solid black;
-  width: 300px;
+  width: 400px;
   height: 40px;
   padding: 2px;
   float:right;
@@ -94,6 +94,7 @@ box {
   font-size: 25px;
   padding-top: 55px;
   padding-right: 20px;
+  padding-left: 20px;
   background-color:yellow;
 }
 .name1{
