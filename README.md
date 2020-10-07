@@ -83,6 +83,6 @@
   	</div>	
   </div>
  
-  <script src="https://github.com/Devansh-007/Assignment-2/blob/main/bootstrap.min%5B1%5D.js"> </script>
+  <script src="bootstrap.min[1].js"> </script>
 
 </body></html>
