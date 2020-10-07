@@ -82,7 +82,7 @@ box {
   margin-top:4px;
   margin-right:15px;
   font-weight: bold;
-  position: relative;
+  position: center,top;
 }
 .content 
 {
