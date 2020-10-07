@@ -83,7 +83,7 @@
   	</div>	
   </div>
   <script src="./Food, LLC_files/jquery.min.js.download"></script>
-  <script src="file:///C:/Users/Guest/coursera-test/site/js/jquery-2.1.4.min.js"></script>
-  <script src="file:///C:/Users/Guest/coursera-test/site/js/bootstrap.min.js"> </script>
+  <script src="jquery-2.1.4.min.js"></script>
+  <script src="bootstrap.min.js"> </script>
 
 </body></html>
