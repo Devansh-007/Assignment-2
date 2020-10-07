@@ -76,7 +76,7 @@ box {
   height: 40px;
   pading: 2px;
   flat:right;
-  magin-top:20px;
+  magin-top:00px;
   magin-right:00px;
   fot-weight: bold;
   poition: center, bottom;
