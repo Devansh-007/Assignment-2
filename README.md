@@ -109,7 +109,7 @@ background-color:orange;
 }
 @media (min-width: 992px) {
 .col-lg-4{
-  float:center;
+  float: left;
   width:33.33%;
   padding: 25px; 
 }
