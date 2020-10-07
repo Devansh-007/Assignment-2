@@ -1,188 +1,90 @@
-<html>
-<head>
-<meta charset="utf-8">
-<meta charset="utf-8">
-<meta name="viewport"
-contetnt="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- <style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
+<!DOCTYPE html>
+<!-- saved from url=(0056)file:///C:/Users/Guest/coursera-test/site/Mod3index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-.mobile-container {
-  width: 100%;
-  margin: 20px;
-  background-color: #555;
-  height: 521px;
-  color: white;
-  border-radius: 10px;
-}
+<title>Food, LLC</title>
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
-  align: center;
-}
-
-.topnav #myLinks {
-  display: none;
-}
-
-.topnav a {
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  display: block;
-}
-
-.topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.active {r: #4CAF50;
-  color: hite;
-}
-.row{
-  margin-top: 6%;
-  margin-bottom: 6%;
-}
-h1 {  margin-bottom: 17px;
-  text-align: center;
-  color: blue;
-  font-size: 50px;
-  font-family: ariel;
-}
-box {
-  width: 100%;
-  overflow: none;
-}
-.content-name{
-  overflow:none;
-  text-align: center;
-  bosolid black;
-  width: 100%;
-  height: 100%;
-  float: ceneter;
-  magin-top:00px;
-  magin-right:00px;
-  foot-weight: bold;
-  position: bottom;
-}
-.content 
-{3px solidblack;
-  width: 100%;
-  hieght: 200px;
-  margin: 2.5%
-  color:black;
-  font-size: 25px;
-  padding-top: 00px;
-  padding-right: 40px;
-  padding-left: 40px;
-  background-color:yellow;
-}
-.name1{
-background-color:red;  
-}
-.name2{
-background-color:blue;  
-}
-
-.name3{
-background-color:orange;  
-}
-@media (min-width: 992px) {
-.col-lg-4{
-  float: left;
-  width:33.33%;
-  padding: 25px;
-}
-}
-@media(min-width:768px)and(max-width:1200px)
-{
-  .col-md-6,col-md-12;{
-  float:left;
-}
-.col-md-6{
-  width:50%;}
-.col-md-12{
-  margin-left:-10px;
-  width:50%;
-.name3{
-  margin-right:65px;
-  width:100px;
-}
-}
-
-</style>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="file:///C:/Users/Guest/coursera-test/site/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="./Food, LLC_files/Mod3style.css">
 </head>
 <body>
+    <header>
+        <nav id="header-nav" class="navbar navbar-default">
+          <div class="container-fluid">
+            <div class="navbar-header">
+                <div class="navbar-brand">
+                <h1>Food, LLC</h1>
+                </div>
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                </div>
+                <div id="collapsable-nav" class="collapse navbar-collapse">
+                  <ul id="nav-list" class="nav navbar-nav navbar-right  text-center">
+                    <li class="visible-xs"><h4>Chicken</h4></li><hr>
+                    <li class="visible-xs"><h4>Beef</h4></li><hr>
+                    <li class="visible-xs"><h4>Sushi</h4></li>
+                 </ul>
+                </div>
+                </div>
+                </nav>
+                </header>
+                <div class="container text-center">
+<h1>Our Menu</h1>
 
-<!-- Simulate a smartphone / tablet -->
-<div class="mobile-container">
 
-<!-- Top Navigation Menu -->
-<div class="topnav">
-  <a href="#home" class="active">Food LLC</a>
-  <div id="myLinks">
-    <a href="#news">Chicken</a>
-    <a href="#contact">Beef</a>
-    <a href="#about">Sushi</a>
+
+  <div class="col-xs-12 content row">
+  <h3>Chicken</h3><br>
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  	</div>
+
+
+  <div class="col-xs-12 content">
+    <h3>Beef</h3><br>
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  	</div>
+  
+
+  <div class="col-xs-12 content">
+    <h3>Sushi</h3><br>
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  	</div>	
   </div>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-  <div class="row">
-<div>
- <div class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-      <p class="content-name name1">
-        Dummy
-      </p>
-      <p class="content">
-        This is a dummy text, no need to read this please do skip it , its no point in reading this.
-      </p>
-  </div>
-  </div>
-  <div class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-      <p class="content-name name2">
-        Dummy
-      </p>
-      <p class="content">
-        This is a dummy text too, no need to read this please do skip it , its no point in reading this.
-      </p>
-    </div>
-  </div>
-  <div  class="col-lg-4 col-md-6 col-sm-12">
-    <div class="box">
-      <p class="content-name name3">
-        Dummy
-      </p>
-      <p class="content">
-       This is a dummy text again, no need to read this please do skip it , its no point in reading this. 
-      </p>
-    </div>
-  </div> <!-- Simulate a smartphone / tablet -->
-    </div>
-<script>
-function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
+  <script src="./Food, LLC_files/jquery.min.js.download"></script>
+  <script src="file:///C:/Users/Guest/coursera-test/site/js/jquery-2.1.4.min.js"></script>
+  <script src="file:///C:/Users/Guest/coursera-test/site/js/bootstrap.min.js"></script>
+
+</body></html>
