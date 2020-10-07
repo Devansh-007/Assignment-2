@@ -78,7 +78,7 @@ box {
   magin-top:00px;
   magin-right:00px;
   foot-weight: bold;
-  poition: bottom;
+  position: bottom;
 }
 .content 
 {3px solidblack;
