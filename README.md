@@ -75,12 +75,13 @@ box {
   width: 100%;
   height: 10px;
   pading: 20px;
-  flat:right;
+  float: ceneter;
   magin-top:00px;
   magin-right:00px;
   fot-weight: bold;
   poition: center, bottom;
-}.content 
+}
+.content 
 {3px solidblack;
   width: 100%;
   hieght: 200px;
