@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="file:///C:/Users/Guest/coursera-test/site/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="./Food, LLC_files/Mod3style.css">
+<link rel="stylesheet" type="text/css" href="Mod3style.css">
 </head>
 <body>
     <header>
