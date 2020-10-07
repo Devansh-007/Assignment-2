@@ -5,7 +5,9 @@ body{
    background-color: #0000ff;
  }
 
-
+.row{
+	margin-top:6%;
+	margin-bttom:6%}
 h1 {
   margin-bottom: 17px;
   color: #000000;
@@ -30,7 +32,7 @@ h1 {
     height: 76px;
     padding-top: 0;
 }
-.row
+
 
 
 
