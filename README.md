@@ -74,7 +74,7 @@ box {
   bosolid black;
   width: 100%;
   height: 50%;
-  pading: 20px;
+  pading: 20px 20px 20px ;
   float: ceneter;
   magin-top:00px;
   magin-right:00px;
